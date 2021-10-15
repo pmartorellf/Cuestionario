@@ -8,18 +8,18 @@
     En Internet se emplean direcciones numéricas para identificar máquinas: las direcciones IP. Se representan por cuatro números, de 0 a 255, separados por puntos. Un servidor puede identificarse, por ejemplo, con la dirección IP 66.230.200.100. Como es más sencillo recordar un nombre, las direcciones se "traducen" a nombres. Los trozos "traducidos" se denominan nombres de dominio. El servicio encargado de la traducción es el DNS e identifica las numeraciones de los usuarios conectados
 
 4-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-Tu, al usar la aplicacion de spotify usas los servidores de spotify (donde estan todas las canciones). Entonces, cuando tu pones una cancion, se está reproduciendo desde los servidores de Spotify.
+    Tu, al usar la aplicacion de spotify usas los servidores de spotify (donde estan todas las canciones). Entonces, cuando tu pones una cancion, se está reproduciendo desde los servidores de Spotify.
 
 5-Describe los protocolos que existen en internet, en específico HTTP y HTML
-HTTP es un protocolo de acceso para las páginas web a través de Internet. HTTP son las siglas para Hypertext Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”. ... El HTML es el lenguaje utilizado para codificar la información en los recursos web.
+    HTTP es un protocolo de acceso para las páginas web a través de Internet. HTTP son las siglas para Hypertext Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”. ... El HTML es el lenguaje utilizado para codificar la información en los recursos web.
 
 6-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-Aprendi como funciona la red, conociendo como se guarda todo ahi, y puede tener acceso el creador siempre, y el mismo creador decide cuando subirlo para que dotos puedan acceder a esa redd.
+    Aprendi como funciona la red, conociendo como se guarda todo ahi, y puede tener acceso el creador siempre, y el mismo creador decide cuando subirlo para que dotos puedan acceder a esa redd.
 
 7-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-Puedes encriptar todo lo que subas, para que de esa manera solo puedan tener acceso la gente que tu invitaste. Tambien el hecho de que puedas tener la informcion guardada en astaging area, para que asi solamente puedas verla en tu ordenador.
+    Puedes encriptar todo lo que subas, para que de esa manera solo puedan tener acceso la gente que tu invitaste. Tambien el hecho de que puedas tener la informcion guardada en astaging area, para que asi solamente puedas verla en tu ordenador.
 
 8-¿Cómo funciona la búsqueda de google?
-El primer paso es averiguar qué páginas hay en la Web. Como no hay ningún registro central con todas las páginas web, tenemos que buscar páginas nuevas constantemente y añadirlas a nuestra lista de páginas conocidas. Algunas páginas las conocemos porque ya las hemos visitado. Otras, en cambio, las encontramos siguiendo enlaces de páginas conocidas que nos llevan a ellas. También descubrimos páginas cuando los propietarios de sitios web nos facilitan una lista de sus páginas (es decir, un sitemap) para que las rastreemos. Asimismo, es posible que un proveedor de alojamiento web gestionado, como Wix o Blogger, nos solicite que rastreemos páginas nuevas o actualizadas.
+    El primer paso es averiguar qué páginas hay en la Web. Como no hay ningún registro central con todas las páginas web, tenemos que buscar páginas nuevas constantemente y añadirlas a nuestra lista de páginas conocidas. Algunas páginas las conocemos porque ya las hemos visitado. Otras, en cambio, las encontramos siguiendo enlaces de páginas conocidas que nos llevan a ellas. También descubrimos páginas cuando los propietarios de sitios web nos facilitan una lista de sus páginas (es decir, un sitemap) para que las rastreemos. Asimismo, es posible que un proveedor de alojamiento web gestionado, como Wix o Blogger, nos solicite que rastreemos páginas nuevas o actualizadas.
 
 
